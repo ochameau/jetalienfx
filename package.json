@@ -1,0 +1,8 @@
+{
+  "name": "jetalienfx",
+  "description": "Jetpack library for Alien-FX: control of differents lights used in alienware laptops M11X,M15X and M17X.",
+  "author": "Alexandre Poirot",
+  "version": "0.1",
+  "license": "LGPL 2.0",
+  "dependencies": ["addon-kit"]
+}
